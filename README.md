@@ -1,5 +1,5 @@
 # Membership-intro_SUNUM
-PROJE HAKKINDA TEKNİK BİLGİLER:
+* PROJE HAKKINDA TEKNİK BİLGİLER:
 
 . Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
 
